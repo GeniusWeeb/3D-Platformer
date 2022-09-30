@@ -7,3 +7,4 @@ https://user-images.githubusercontent.com/55481788/193316431-93cc4fe7-1cc1-47ef-
 
 <br><h3>snapshot </h3>
 ![platformerImage](https://user-images.githubusercontent.com/55481788/193319458-629ca4f3-eb7d-48ca-a240-e18110d6c656.JPG)
+![plat2](https://user-images.githubusercontent.com/55481788/193320600-d19d92f6-de05-464a-9cba-f318c12816c1.JPG)
